@@ -40,6 +40,7 @@ The frontend is developed using **Next.js** and the backend is built with **Node
 ---
 
 ## 📌 Folder Structure
+```bach
 TechBook-Store/
 ├── src/
 │   ├── app/
@@ -57,6 +58,34 @@ TechBook-Store/
 │   ├── lib/                         
 │   ├── public/                       
 │   └── README.md
+
+```
+---
+
+## **🧰 Tech Stack**
+
+Next js 
+
+TypeScript
+
+shadcn/ui
+
+RxJS
+
+TailwindCSS
+
+SweetAlert2 (for alerts)
+
+LocalStorage API
+
+--- 
+
+## **👨‍💻 Developer**
+
+Ahmed Hamed
+Frontend Developer specializing in Angular & Next js 
+🎯 Passionate about crafting interactive, user-friendly web applications.
+📘 Currently studying Engineering at Al-Azhar University.
 
 
 
