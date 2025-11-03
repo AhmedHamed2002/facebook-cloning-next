@@ -40,5 +40,24 @@ The frontend is developed using **Next.js** and the backend is built with **Node
 ---
 
 ## 📌 Folder Structure
+TechBook-Store/
+├── src/
+│   ├── app/
+│   │   ├── (routes)/                
+│   │   ├── components/             
+│   │   ├── services/
+│   │   │   ├── userService.ts    
+│   │   │   └── postsService.ts
+|   |   │   ├── commentService.ts
+|   |   │   ├── reactionService.ts
+|   |   │   └── friendshipService.ts
+│   │   ├── globals.css               
+│   │   └── layout.tsx               
+│   ├── components/ui/               
+│   ├── lib/                         
+│   ├── public/                       
+│   └── README.md
+
+
 
 
