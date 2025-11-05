@@ -8,11 +8,11 @@ The frontend is developed using **Next.js** and the backend is built with **Node
 ## 🚀 Features
 
 ✅ User Authentication (Register/Login/JWT)  
-✅ Posts: Create, Edit, Delete, View Public & Friend Posts  
+✅ Posts: Create, Edit, Delete, View Public , Private & Friend Posts  
 ✅ Comments: Add / Delete comments  
-✅ Reactions: Like & Update & Remove  
+✅ Reactions: (Like,love,happy,sad,angry...) & Update & Remove  
 ✅ Friendship System: Send, Accept, Reject, Remove Friend  
-✅ Profile: View & Update user profile and profile image  
+✅ Profile , userProfile: View & Update user profile and profile image  
 ✅ Search Users  
 ✅ Protected Routes using Bearer Token  
 ✅ Image upload (Multer)
