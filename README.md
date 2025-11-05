@@ -23,8 +23,9 @@ The frontend is developed using **Next.js** and the backend is built with **Node
 
 ### Frontend (Next.js)
 - Next.js 14  
-- Tailwind CSS  
-- Axios  
+- Tailwind CSS
+- shadcn ui  
+- Axios , fetch 
 - Redux Toolkit  
 - SweetAlert2  
 - JWT Authentication
