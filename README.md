@@ -7,15 +7,33 @@ The frontend is developed using **Next.js** and the backend is built with **Node
 
 ## 🚀 Features
 
-✅ User Authentication (Register/Login/JWT)  
-✅ Posts: Create, Edit, Delete, View Public , Private & Friend Posts  
-✅ Comments: Add / Delete comments  
-✅ Reactions: (Like,love,happy,sad,angry...) & Update & Remove  
-✅ Friendship System: Send, Accept, Reject, Remove Friend  
-✅ Profile , userProfile: View & Update user profile and profile image  
-✅ Search Users  
-✅ Protected Routes using Bearer Token  
-✅ Image upload (Multer)
+### 👤 User Module
+- User registration and login
+- Profile update and image upload
+- Search users
+- View other profiles
+- JWT authentication
+- Forgot/reset password
+
+### 📝 Post Module
+- Create, edit, and delete posts
+- Upload images with posts
+- View all public posts
+- View posts from friends
+- View posts by a specific user
+
+### 💬 Comment Module
+- Add and delete comments on posts
+- View comments for each post
+
+### 👍 Reaction Module
+- Add, update, or remove reactions (like, love, etc.)
+- View reactions for posts
+
+### 🤝 Friendship Module
+- Send and accept friend requests
+- Reject or remove friends
+- View friend-related posts
 
 ---
 
@@ -87,6 +105,20 @@ Ahmed Hamed
 Frontend Developer specializing in Angular & Next js 
 🎯 Passionate about crafting interactive, user-friendly web applications.
 📘 Currently studying Engineering at Al-Azhar University.
+
+---
+
+## 📝 License
+
+This project is licensed under the MIT License — feel free to use and modify it.
+
+---
+
+## 🌟 Acknowledgements
+
+Special thanks to everyone contributing to open-source libraries and APIs that made this project possible!
+
+
 
 
 
