@@ -125,7 +125,7 @@ export default function Navbar() {
         </Link>
 
         {/* Search */}
-        <div className="relative w-64 hidden sm:block">
+        <div className="relative w-64">
           <input
             type="text"
             value={searchQuery}
@@ -298,8 +298,9 @@ export default function Navbar() {
                       className={`flex items-center gap-2 ${isActive("/user-list")}`}
                     >
                       <i className="fas fa-user-plus"></i> Add Friends
-
-                      <span className="bg-red-600/80 text-white text-xs font-semibold rounded-full px-2 py-0.5">{friendRequestsCount}</span>
+                      {friendRequestsCount > 0 && (
+                        <span className="bg-red-600/80 text-white text-xs font-semibold rounded-full px-2 py-0.5">{friendRequestsCount}</span>
+                      )}
                     </Link>
                   </li>
                 </ul>
